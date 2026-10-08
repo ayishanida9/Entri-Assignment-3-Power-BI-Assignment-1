@@ -1,10 +1,6 @@
 # Power BI Assignment 1 – Data Transformation & Data Modeling
 *E-Commerce Sales Analysis
-This assignment will help you explore e-commerce sales data analysis using Power BI.
-Below are the files you will be working with (click on each to download):
-★ List of Orders.csv
-★ Order Details.csv
-★ Sales target.csv
+
 In this exercise, you will leverage Power BI's capabilities to import, transform, model, and
 analyze the provided data.
 Instructions:-
